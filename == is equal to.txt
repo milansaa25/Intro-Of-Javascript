@@ -1,0 +1,10 @@
+== is equal to
+< less than
+> greater than
+<= less than or equal to
+>= greater than or equal to
+
+0 to 35 NG
+if (score>0 && score<=35)
+35 to 45 D
+45 to 50 C
